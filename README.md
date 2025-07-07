@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=setsuko34" alt="setsuko34" /></a> </p>
 
-- 🔭 I’m currently working on [PIFR](pifr.fr)
+- 🔭 I’m currently working on [PIFR](https://www.pifr.fr)
 
 - 🌱 I’m currently learning **a lot of things**
 
