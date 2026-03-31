@@ -18,7 +18,7 @@
 
 Je suis Maxime, alias **Setsuko_Aka** — développeur full-stack basé en France, animé par une curiosité qui ne s'éteint jamais.
 
-Mon code raconte une histoire : celle d'un passionné qui aime autant construire des apps mobiles que grimper un bloc d'escalade, écouter de la musique le casque vissé sur les oreilles, et plonger dans l'univers du vtubing et du streaming. Je crois que les meilleures idées naissent à l'intersection de la tech et de la culture — et je cherche constamment cette intersection.
+Mon code raconte une histoire : celle d'un passionné qui aime autant construire des apps mobiles que grimper un bloc d'escalade, écouter de la musique le casque vissé sur les oreilles, et streamer mes sessions gaming avec seul ou avec des copains, tout comme mes petit projet de dev. Je crois que les meilleures idées se trouvent là où moi même ai un besoin — et je cherche constamment ces idées.
 
 Actuellement concentré sur **[PIFR](https://www.pifr.fr)**, je construis des projets qui ont du sens pour moi et (j'espère) pour les autres.
 
@@ -29,10 +29,12 @@ Actuellement concentré sur **[PIFR](https://www.pifr.fr)**, je construis des pr
 | Projet | Description |
 |--------|-------------|
 | **[PIFR](https://www.pifr.fr)** | Mon projet principal — en cours d'évolution permanente |
-| **Virtualia** | Un site découverte de concept d'un serveur minecraft entre Vtuber |
+| **KonfiturGame** | Une plateforme web visant a permettre l'ogranisation et la gestion de gameJam en un seul lieu, Réalisé dans le cadre de mon projet de fin de master 2  |
+| **[Portfolio](https://portfolio.maximefuline.fr)** | Mon portfolio pro qui reroupe mes expériences en entreprise comme en école, les tech que je maitrises et sur lesquelles j'expérimente |
+| **[Virtualia](https://www.vtvirtualia.fr)** | Un site découverte de concept d'un serveur minecraft entre Vtuber |
 | **FamilyMap** | App mobile pensée pour connecter les familles (dans le cadre de mon master) |
 | **SmartGuard** | App mobile orientée sécurité intelligente (dans le cadre de mon master) |
-| **setsukoakasite** | Mon espace personnel sur le web |
+| **Setsuko's Bar** | Mon espace personnel sur le web pour mes activités de stream |
 
 ---
 
@@ -60,6 +62,7 @@ Actuellement concentré sur **[PIFR](https://www.pifr.fr)**, je construis des pr
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 **Bases de données & Outils**
 
